@@ -1,0 +1,33 @@
+# FIXED
+
+driverlib/shamd5.obj: ../driverlib/shamd5.c
+driverlib/shamd5.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdbool.h
+driverlib/shamd5.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/yvals.h
+driverlib/shamd5.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdarg.h
+driverlib/shamd5.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/linkage.h
+driverlib/shamd5.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/_lock.h
+driverlib/shamd5.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdint.h
+driverlib/shamd5.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_ints.h
+driverlib/shamd5.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_memmap.h
+driverlib/shamd5.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_nvic.h
+driverlib/shamd5.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_shamd5.h
+driverlib/shamd5.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_types.h
+driverlib/shamd5.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/debug.h
+driverlib/shamd5.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/interrupt.h
+driverlib/shamd5.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/shamd5.h
+
+../driverlib/shamd5.c: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdbool.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/yvals.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdarg.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/linkage.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/_lock.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdint.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_ints.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_memmap.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_nvic.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_shamd5.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_types.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/debug.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/interrupt.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/shamd5.h: 

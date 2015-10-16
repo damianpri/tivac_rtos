@@ -1,0 +1,45 @@
+# FIXED
+
+utils/smbus.obj: ../utils/smbus.c
+utils/smbus.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdbool.h
+utils/smbus.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/yvals.h
+utils/smbus.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdarg.h
+utils/smbus.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/linkage.h
+utils/smbus.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/_lock.h
+utils/smbus.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdint.h
+utils/smbus.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_i2c.h
+utils/smbus.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_ints.h
+utils/smbus.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_memmap.h
+utils/smbus.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_sysctl.h
+utils/smbus.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_types.h
+utils/smbus.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/debug.h
+utils/smbus.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/interrupt.h
+utils/smbus.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/i2c.h
+utils/smbus.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/sw_crc.h
+utils/smbus.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/sysctl.h
+utils/smbus.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/rom.h
+utils/smbus.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/rom_map.h
+utils/smbus.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/udma.h
+utils/smbus.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/utils/smbus.h
+
+../utils/smbus.c: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdbool.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/yvals.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdarg.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/linkage.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/_lock.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdint.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_i2c.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_ints.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_memmap.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_sysctl.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_types.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/debug.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/interrupt.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/i2c.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/sw_crc.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/sysctl.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/rom.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/rom_map.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/udma.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/utils/smbus.h: 

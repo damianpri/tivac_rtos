@@ -1,0 +1,35 @@
+# FIXED
+
+driverlib/hibernate.obj: ../driverlib/hibernate.c
+driverlib/hibernate.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdbool.h
+driverlib/hibernate.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/yvals.h
+driverlib/hibernate.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdarg.h
+driverlib/hibernate.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/linkage.h
+driverlib/hibernate.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/_lock.h
+driverlib/hibernate.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdint.h
+driverlib/hibernate.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/time.h
+driverlib/hibernate.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_hibernate.h
+driverlib/hibernate.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_ints.h
+driverlib/hibernate.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_sysctl.h
+driverlib/hibernate.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_types.h
+driverlib/hibernate.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/debug.h
+driverlib/hibernate.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/hibernate.h
+driverlib/hibernate.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/interrupt.h
+driverlib/hibernate.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/sysctl.h
+
+../driverlib/hibernate.c: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdbool.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/yvals.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdarg.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/linkage.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/_lock.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdint.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/time.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_hibernate.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_ints.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_sysctl.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_types.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/debug.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/hibernate.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/interrupt.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/sysctl.h: 

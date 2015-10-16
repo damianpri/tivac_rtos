@@ -1,0 +1,25 @@
+# FIXED
+
+utils/ringbuf.obj: ../utils/ringbuf.c
+utils/ringbuf.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdbool.h
+utils/ringbuf.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/yvals.h
+utils/ringbuf.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdarg.h
+utils/ringbuf.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/linkage.h
+utils/ringbuf.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/_lock.h
+utils/ringbuf.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdint.h
+utils/ringbuf.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_types.h
+utils/ringbuf.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/debug.h
+utils/ringbuf.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/interrupt.h
+utils/ringbuf.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/utils/ringbuf.h
+
+../utils/ringbuf.c: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdbool.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/yvals.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdarg.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/linkage.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/_lock.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdint.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_types.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/debug.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/interrupt.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/utils/ringbuf.h: 

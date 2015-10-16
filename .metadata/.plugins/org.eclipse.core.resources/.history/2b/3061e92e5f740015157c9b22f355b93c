@@ -1,0 +1,30 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+C_SRCS += \
+../third_party/ek-tm4c123gxl/drivers/buttons.c \
+../third_party/ek-tm4c123gxl/drivers/rgb.c 
+
+OBJS += \
+./third_party/ek-tm4c123gxl/drivers/buttons.obj \
+./third_party/ek-tm4c123gxl/drivers/rgb.obj 
+
+C_DEPS += \
+./third_party/ek-tm4c123gxl/drivers/buttons.pp \
+./third_party/ek-tm4c123gxl/drivers/rgb.pp 
+
+C_DEPS__QUOTED += \
+"third_party\ek-tm4c123gxl\drivers\buttons.pp" \
+"third_party\ek-tm4c123gxl\drivers\rgb.pp" 
+
+OBJS__QUOTED += \
+"third_party\ek-tm4c123gxl\drivers\buttons.obj" \
+"third_party\ek-tm4c123gxl\drivers\rgb.obj" 
+
+C_SRCS__QUOTED += \
+"../third_party/ek-tm4c123gxl/drivers/buttons.c" \
+"../third_party/ek-tm4c123gxl/drivers/rgb.c" 
+
+

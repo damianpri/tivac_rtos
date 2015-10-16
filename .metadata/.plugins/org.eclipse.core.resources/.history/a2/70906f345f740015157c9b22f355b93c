@@ -1,0 +1,31 @@
+# FIXED
+
+utils/scheduler.obj: ../utils/scheduler.c
+utils/scheduler.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdbool.h
+utils/scheduler.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/yvals.h
+utils/scheduler.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdarg.h
+utils/scheduler.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/linkage.h
+utils/scheduler.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/_lock.h
+utils/scheduler.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdint.h
+utils/scheduler.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_types.h
+utils/scheduler.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_ints.h
+utils/scheduler.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/systick.h
+utils/scheduler.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/sysctl.h
+utils/scheduler.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/interrupt.h
+utils/scheduler.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/debug.h
+utils/scheduler.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/utils/scheduler.h
+
+../utils/scheduler.c: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdbool.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/yvals.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdarg.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/linkage.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/_lock.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdint.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_types.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/inc/hw_ints.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/systick.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/sysctl.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/interrupt.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/driverlib/debug.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/utils/scheduler.h: 

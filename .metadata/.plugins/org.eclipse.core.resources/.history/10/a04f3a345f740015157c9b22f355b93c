@@ -1,0 +1,15 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+LIB_SRCS += \
+../driverlib/ccs/Debug/driverlib.lib 
+
+EXE_OUTPUTS += \
+./driverlib/ccs/Debug/driverlib.exe 
+
+EXE_OUTPUTS__QUOTED += \
+"driverlib\ccs\Debug\driverlib.exe" 
+
+

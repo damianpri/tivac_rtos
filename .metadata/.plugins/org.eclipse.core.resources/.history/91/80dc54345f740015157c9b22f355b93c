@@ -1,0 +1,59 @@
+# FIXED
+
+led_task.obj: ../led_task.c
+led_task.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdbool.h
+led_task.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/yvals.h
+led_task.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdarg.h
+led_task.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/linkage.h
+led_task.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/_lock.h
+led_task.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdint.h
+led_task.obj: ../inc/hw_memmap.h
+led_task.obj: ../inc/hw_types.h
+led_task.obj: ../driverlib/gpio.h
+led_task.obj: ../driverlib/rom.h
+led_task.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/third_party/ek-tm4c123gxl/drivers/rgb.h
+led_task.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/third_party/ek-tm4c123gxl/drivers/buttons.h
+led_task.obj: ../utils/uartstdio.h
+led_task.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdarg.h
+led_task.obj: ../led_task.h
+led_task.obj: ../priorities.h
+led_task.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/third_party/FreeRTOS/Source/include/FreeRTOS.h
+led_task.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stddef.h
+led_task.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/third_party/FreeRTOS/Source/include/projdefs.h
+led_task.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/FreeRTOSConfig.h
+led_task.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/third_party/FreeRTOS/Source/include/portable.h
+led_task.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/third_party/FreeRTOS/Source/portable/CCS/ARM_CM4F/portmacro.h
+led_task.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/third_party/FreeRTOS/Source/include/mpu_wrappers.h
+led_task.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/third_party/FreeRTOS/Source/include/task.h
+led_task.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/third_party/FreeRTOS/Source/include/list.h
+led_task.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/third_party/FreeRTOS/Source/include/queue.h
+led_task.obj: C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/third_party/FreeRTOS/Source/include/semphr.h
+
+../led_task.c: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdbool.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/yvals.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdarg.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/linkage.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/_lock.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdint.h: 
+../inc/hw_memmap.h: 
+../inc/hw_types.h: 
+../driverlib/gpio.h: 
+../driverlib/rom.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/third_party/ek-tm4c123gxl/drivers/rgb.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/third_party/ek-tm4c123gxl/drivers/buttons.h: 
+../utils/uartstdio.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdarg.h: 
+../led_task.h: 
+../priorities.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/third_party/FreeRTOS/Source/include/FreeRTOS.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stddef.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/third_party/FreeRTOS/Source/include/projdefs.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/FreeRTOSConfig.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/third_party/FreeRTOS/Source/include/portable.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/third_party/FreeRTOS/Source/portable/CCS/ARM_CM4F/portmacro.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/third_party/FreeRTOS/Source/include/mpu_wrappers.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/third_party/FreeRTOS/Source/include/task.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/third_party/FreeRTOS/Source/include/list.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/third_party/FreeRTOS/Source/include/queue.h: 
+C:/Users/damian/workspace_freertostiva_dipse22/freertos_Ejemplo2_0/third_party/FreeRTOS/Source/include/semphr.h: 

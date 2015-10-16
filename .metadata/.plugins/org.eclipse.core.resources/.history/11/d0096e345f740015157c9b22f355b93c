@@ -1,0 +1,17 @@
+# FIXED
+
+utils/random.obj: ../utils/random.c
+utils/random.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdint.h
+utils/random.obj: ../utils/ustdlib.h
+utils/random.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdarg.h
+utils/random.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/time.h
+utils/random.obj: D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/linkage.h
+utils/random.obj: ../utils/random.h
+
+../utils/random.c: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdint.h: 
+../utils/ustdlib.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/stdarg.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/time.h: 
+D:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.5/include/linkage.h: 
+../utils/random.h: 
